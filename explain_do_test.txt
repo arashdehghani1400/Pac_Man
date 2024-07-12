@@ -1,0 +1,7 @@
+فایل را داخل پروژه خود ایمپورت کرده و ورودیهای لازم را بدهید:
+
+from pacman import PacManTest
+#your code
+packMan_test = PacManTest(map_filename, start, end, steps, path_and_moves)
+packMan_test.path()
+packMan_test.compare_results()
